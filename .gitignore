@@ -1,0 +1,15 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables file
+.env
+
+# VSCode settings
+.vscode/
+
+# Django database files
+db.sqlite3
+
+# Log files
+*.log
